@@ -9,4 +9,3 @@ Tujuannya adalah untuk menyingkirkan babi
 Kekuatan Burung
 Red Bird = burung biasa, tidak ada efek khusus
 Burung Kuning = peningkatan kecepatan, ketuk layar dan itu berjalan sangat cepat
-Brown Bird = ledakan, ketuk layar dan langsung meledak
